@@ -7,3 +7,5 @@
   + `1023_task` Constructing MPO using finite size automata for a square-lattice spin model
   + `1031_task` Variational MPS for open-boundary-conditioned 1D Ising cluster model
   + `1106_task` 3-site iTEBD for an infinite 1D Ising cluster model
+  + ``1113_task`` Classical Monte-Carlo for 2D classical Ising model
+  + ``1204_task`` Constructing the 4-fold degenerated ground states of Kitaev's toric code model using PEPS
